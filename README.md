@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mimi-1
-- 🌱 I’m currently learning Gatsby.js
-- 💞️ I’m looking to collaborate on any react project
-- 📫 How to reach me ...
+- 🌱 I dont like Gatsby anymore 
+- 💞️ I love data
+- 📫 How to reach me ... 
 
 <!---
 mimi-1/mimi-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
