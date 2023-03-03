@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mimi-1
-- 🌱 I dont like Gatsby anymore 
-- 💞️ I love data
+- 🌱 Tried to work with React/Gatsby
+- 💞️ SQL, R, Python
 - 📫 How to reach me ... 
 
 <!---
