@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mimi-1
-- 🌱 Tried to work with React/Gatsby
 - 💞️ SQL, R, Python
 - 📫 How to reach me ... 
 
